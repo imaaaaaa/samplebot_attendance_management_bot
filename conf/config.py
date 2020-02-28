@@ -36,7 +36,7 @@ SERVER_ID = "2680a1f4b61f41ecbfeb658a01302dd2"
 SECRET_KEY_NAME = "private_20200228131601.key"
 
 # LOCAL ADDRESS
-LOCAL_ADDRESS = "https://[Heroku app name].herokuapp.com/"
+LOCAL_ADDRESS = "https://alphauni-samplebot.herokuapp.com/"
 
 # DB config
 DB_HOST = "ec2-50-17-178-87.compute-1.amazonaws.com"
